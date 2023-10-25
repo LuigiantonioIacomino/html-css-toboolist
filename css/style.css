@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(246, 248, 249);
+}
+
+/* tag semantici */
+header {
+    background-color: white;
+}
+
+main {
+    width: 80%;
+    margin:0 auto;
+    background-color: white;
+    margin-top:30px;
+    border-radius: 25px;
+    box-shadow: 3px 3px 10px 1px black;
+}
+
+section {
+    padding:13px;
+}
+
+
+/* elements */
+
+details {
+    margin-bottom:12px;
+}
+
+div {
+    margin-bottom:15px;
+}
+
+.dimensioni {
+width: 30px;
+height: 10px;
+border: 1px solid black;
+padding:5px;
+font-weight: bold;
+}
+
+.rounded {
+    border-radius:5px;
+}
+
+.bg-blue {
+    background-color:rgb(20, 170, 245);
+}
+
+.bg-purple {
+    background-color:purple;
+}
+
+.bg-green {
+    background-color:green;
+}
+
+.bg-orange {
+    background-color:orange;
+}
+
+.bg-rosa {
+    background-color:rgb(180, 9, 63);
+}
+
+.round-icona-spunta {
+border-radius: 50%;
+border:1px solid turquoise;
+color:turquoise;
+padding: 3px;
+font-size:10px;
+}
+
+.round-icona-croce {
+border-radius: 50%;
+border:1px solid red;
+color:red;
+font-size:15px;
+}
+
+.round-terzo-elem {
+    width: 25px;
+    height: 8px;
+    font-size:10px;
+    color:white;
+    border-radius: 30px;
+    padding:6px;
+}
+
+
